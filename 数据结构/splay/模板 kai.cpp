@@ -91,7 +91,7 @@ struct Splay{
                 if(checkfa(p->fa))rotate(p->fa,0);
                 rotate(p,0);
             }else{
-                if(checkfa(p->fa))rotate(p->fa,1);
+                if(!checkfa(p->fa))rotate(p->fa,1);
                 rotate(p,1);
             }
         }
