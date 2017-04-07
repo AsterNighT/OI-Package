@@ -23,8 +23,8 @@
 
 using namespace std;
 const int MAXINT = 1000;
-vector<int> e[MAXINT]; //存儿子 
-int dep[MAXINT]={},father[MAXINT][20]={}; //father[N][0] 为N的父节点，根节点的父节点为-1 
+vector<int> e[MAXINT]; //锟斤拷锟斤拷锟斤拷 
+int dep[MAXINT]={},father[MAXINT][20]={}; //father[N][0] 为N锟侥革拷锟节点，锟斤拷锟节碉拷锟侥革拷锟节碉拷为-1 
 int dfs(int p,int depth);
 int getA(int p); 
 int n;//total number of nodes
@@ -43,7 +43,7 @@ int getA(int p){
 	for(int i=1;i<20;i++){
 		rep1(j,n){
 			if(father[j][i-1]!=-1){
-				father[i][j]=father[father[i][j-1]][j-1];
+				father[j][i]=father[father[j][i-1]][i-1];
 			}
 		}
 	}
