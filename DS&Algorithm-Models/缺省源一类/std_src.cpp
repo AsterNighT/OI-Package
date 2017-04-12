@@ -11,7 +11,7 @@
 #include <vector>
 #include <queue>
 #include <time.h>
-#define eps 10e-7
+#define eps 1e-7
 #define INF 0x3f3f3f3f
 #define MOD 1000000007
 #define rep0(j,n) for(int j=0;j<n;++j)
@@ -21,6 +21,8 @@
 #define ll long long
 #define ull unsigned long long
 #define iter(i,v) for(edge *i=head[v];i;i=i->next)
+#define max(a,b) (a>b?a:b)
+#define min(a,b) (a<b?a:b)
 //#define OJ
 using namespace std;
 int read(){
@@ -35,13 +37,21 @@ char get_ch(){
     return c;
 }
 const int MAXINT = 1000;
-
+void get_input();
+void work();
 int main() {
     #ifndef OJ
     freopen(".in","r",stdin);
     freopen(".out","w",stdout);
     #endif // OJ
-
+    get_input();
+    work();
     return 0;
+}
+void work(){
+
+}
+void get_input(){
+
 }
 
