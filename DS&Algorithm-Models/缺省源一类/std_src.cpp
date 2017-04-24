@@ -20,11 +20,17 @@
 #define set0(n) memset(n,0,sizeof(n))
 #define ll long long
 #define ull unsigned long long
-#define iter(i,v) for(edge *i=head[v];i;i=i->next)
+#define iter(i,v) for(edge *i=head[v];i;i=i->nxt)
 #define max(a,b) (a>b?a:b)
 #define min(a,b) (a<b?a:b)
+#define print_rumtime printf("Running time:%.3lfs\n",double(clock())/1000.0);
+#define TO(j) printf(#j": %d\n",j);
 //#define OJ
 using namespace std;
+const int MAXINT = 100010;
+const int MAXNODE = 100010;
+const int MAXEDGE = 2*MAXNODE;
+char BUF,*buf;
 int read(){
     char c=getchar();int f=1,x=0;
     while(!isdigit(c)){if(c=='-') f=-1;c=getchar();}
@@ -36,13 +42,15 @@ char get_ch(){
     while(!isalpha(c)) c=getchar();
     return c;
 }
-const int MAXINT = 1000;
+//------------------- Head Files ----------------------//
+
+
 void get_input();
 void work();
 int main() {
     #ifndef OJ
-    freopen(".in","r",stdin);
-    freopen(".out","w",stdout);
+    freopen("tst.in","r",stdin);
+    freopen("tst.out","w",stdout);
     #endif // OJ
     get_input();
     work();
@@ -52,6 +60,6 @@ void work(){
 
 }
 void get_input(){
-
+    
 }
 

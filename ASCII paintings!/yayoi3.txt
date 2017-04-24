@@ -1,0 +1,50 @@
+//                    .                      ......                                         
+//                                  :,.....,::;r777r7ri;:::,.                               
+//                              .:rB;            ..::,:rr;:;r;;7r:                          
+//              ......        :r7:5:  . .          .1r  :ir::;..rJ1;:.                      
+//            .,      ..   ,;Lr:.rr    . .           J1   ,i:r;  ,rJ;,,,.                   
+//            .   .     ::;vs;, .c.        .  .   .   7c    ,,7J   ,Lr  ,:,       .     .   
+//           . ... .  .,:r.;,  .::      .  ;,  .     . 7:      ;2.   :7   .:,               
+//                  .::. :r.   .,,    . ,: .1        ,. L.      ,7.   .:    .:,             
+//            .    :,.  .K.   .:Lr ,:    r. rc     .  r .L        :.     .    .:            
+//              .:,    .H     ,57;,:L    .v ,X;     . ,; i7   . .  .            :..         
+//              .r. .. U:   . .v.::r77    rr 7L; ,:    ;,.1;       .:      . .    .,,,.     
+//            ::7.    rO   :: :: .;r7v7 .: w, L::,r:    r.;2      , 2L       :LBX:;r7is7i:;.
+//          .::r      Q.   L. r   :rcrrr.;;;w ,r,;:7r, .;;,S:        Br      .:;g:.B; :Rr   
+//        :;::7.    .iB   ,J.:,    :c7::;,r7sr.L7irr77;;::::K ,;r;;:  B.      ::,vB.    BB;,
+//     :::,.       ;,J7 .,JDvL,     :v;:::::;;;:c:,:,::;::,;Bpr   .rr EB.   .  v:;r:   r7  .
+//           ,.    B.svr::r;c,..    .;r::::::::::L:,:::::::7BG;c:   ,;.Q6   .: rs:r   i:    
+//           :    :B 7Xcr::rr        .,:::v;:::;,:7:,r:::::.:7  2;   :.PBc   1  rr7: ::     
+//      .   ,.   .sD rwvc,;7:         .:;:7Lr:::;,,7::s::::,:B,.;B   ;;,BL;  Jr  :v7Ji    .,
+//          ,    7L1 riv7,iv.           .;;;,r7r::.,r::J::::,B;::Q   JO g;c. 7S   77Qc   .r 
+//      .   ,  ..7rJ ;r:7,7i             .:7.  :rrr,.:.,7,,,.M.  v:  B; Lrir r1r  .7B7  ,r: 
+//       .  :r 7L;:B.:r,::;i               ,:    .    .  :   Bv.:7;,B;  ;J:r:7:B   ;BM    . 
+//          Xv cL,.G:.s,,,.,                   sBBBBBBBBBBBJ gLrgQsrB: ..;::cc.BB   BB  .   
+//          w;:v;,.1Z ci., .:;vOBB            iBBcBBBBBBBBBBBB:,;,  BBB.  :.rS.:B.  vB ,,,  
+//          7r:;::,,B :L:.BQBBBBBBB;          .     rU,.2rBB Dcrr  ;BBBQB,. :v, BB  .5:::,, 
+//         .7L,r,:: QB ;;.BB.BvHp:BB              .:Js  PEBB r;:c  BD,. XBPr.:,.BB:  L;;::, 
+//         :ws.L.,:.,BS :.B   :PD ,Bg             BBJ.: 7 B: 7: ,  BS i   :B.,:.:BB..:v:::: 
+//        ;v;: Sw :: DBQ;. ; BB::. rB              B:     ; :L.   vB..r,   B::c.,BBc .r::::.
+//       ;2, B:.B. :. BBBB. , B.   :r               .:, ,:  s:    L.  7s   wB B..BBB5 .:::;,
+//      ;s.  BB BB .:  BBBB.   :,.,: ..              .,,.  7i.   ::sv BBM  .Q B,.B.pBQ  :;;:
+//     ri     BR BB.c; .B.B.  ..,::....           .,:,:,,.r7:   .s  , BBBB  B:B.;B  :BD::XE;
+//    r,    : .BQ ;B.BQ.:; 7 .,::::,..           ..,,,,.,7cr.   :J:  Z,XwBB cBB 2Br: ;BBQEP;
+//         ,;  :r :  EpBBB r,.,::,,..             . .  ;pL7, .  :  iBB Q: BB EB B..XBBBpJs7;
+//        .Z , .: r .:.,BB.D.  ... .                 :aP:;:  :  irBBB, B.  DB..rR.rPZBQBU;::
+//       :L: :  i :7:  .:B,BB            ,:          .  ,r,  :..BBB,7  B    BQ B7XBB;.;rri:.
+//     .;r .::  ;  LL ,:.K;BBw           ..             ;r   v .Bs.,: ;B    QBMaQBgr::...;P2
+//    ,:   .:B:  .  7 ;:,rB,;BB7:.                     ir,  .B  J:.,  Br ,;BBBB:,   ,;6RBOE:
+//           cBU::.:: ;:.OQ .BGR:BJ.,              .7KQ7i   rB  i,., BB ,Bs:  , LXsQBBBB7.Br
+//            ,r::r;  : ;B. :7 B; : BQBB..:     :QBQHrvr.   BB; ;:r:S7  ic. cBBPBBBBBQBBBBa:
+//              ..  ,   H7  :; ,i,: HBBB  cBBBBBBBQ  ;v;   rRB; r1:;: .7BBBBBBBBQBBB GBB:g. 
+//              :r .:  ;M   ::    ,   PB   BBQBBBBB ,:L   :7JB  LsgQBBBQBBBBBBBsQBBRKBBQ7,. 
+//           .     :.  Ri   ::        :BMrBBBBB... ,::r  .J 1B BBBQBQBBBBBZBBBBDBBKgBB    ..
+//          .      c  ;B    ,      .;QBQB 2BBQ  ,,:;.:, :ULrL,BBBBBBBBBBBBRBBQBXBBBQOBBBM:. 
+//                :s  57 :. ,    7BBQBrB: :BB   ,::; ;  ;7::. BBBBBBQBQBQrBBBBB.BBBBBBRBQ,  
+//. ,::           Si .S, ,: :   JBBBBB:B, :BB     ,. : ,c.   BBBBBBBBQBBBQBBBB  BBBBBBBBP :J
+//.  .,,          g: 7L. .: :. .BBBBQBrB, ;Bs    .;    7.   BBQBBBQBBBBBBBBBs  BBBBBQBBBBBQB
+//.    ,         :2, c;  .:..  gBBBBB1KB, ;BBB::sL    :;   BBBBBBBBBBBBBBBBa:7BBBQBBESQEBBBB
+//     .         7;: s.  , .. ,BBBBBQ,BB. ,BBBBBB;    r  ;BBBBBBBBQ.:BBBB62GBBBBB 7B2r;r;;J.
+//, . :.        :rr .v.  .   ,BBBQBBBrBB: .BJS  r  .. ; BBBBBBBQB::OBBBBB.gBrZBXBsJ;:,:::rp 
+// ., .,        7rr ;r   :   BBBBBBBQUBBs  Brr  ,  7 :BBBBBBBBQ,.GQBQBBBB.    KBgB5i:::::7g,
+//              ;:  ,    .  X BBBBBBB;5BQ  Br     .: BBgROOBBJ rBBBBBDRgBQ:    :67r::...:ia 
