@@ -17,13 +17,14 @@
 #define rep0(j,n) for(int j=0;j<n;++j)
 #define rep1(j,n) for(int j=1;j<=n;++j)
 #define pb push_back
+#define mp make_pair
 #define set0(n) memset(n,0,sizeof(n))
 #define ll long long
 #define ull unsigned long long
 #define iter(i,v) for(edge *i=head[v];i;i=i->nxt)
 #define max(a,b) (a>b?a:b)
 #define min(a,b) (a<b?a:b)
-#define print_rumtime printf("Running time:%.3lfs\n",double(clock())/1000.0);
+#define print_runtime printf("Running time:%.3lfs\n",double(clock())/1000.0)
 #define TO(j) printf(#j": %d\n",j);
 //#define OJ
 using namespace std;
