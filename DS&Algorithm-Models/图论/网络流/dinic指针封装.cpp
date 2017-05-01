@@ -39,7 +39,7 @@ char get_ch() {
     while ( !isalpha ( c ) ) c = getchar();
     return c;
 }
-const int MAXINT = 1000;
+const int MAXINT = 5010;
 struct edge {
     int u,v, cap, cost, lower;
     edge *next, *trans;
@@ -47,7 +47,7 @@ struct edge {
     edge(){};
 };
 struct network {
-    edge memp[MAXINT * MAXINT];
+    edge memp[100010];
     edge* e[MAXINT],*from[MAXINT];
     int num,cnt, dist[MAXINT], in[MAXINT], out[MAXINT],cnt2[MAXINT], ss, tt,vis[MAXINT];
     network(){
